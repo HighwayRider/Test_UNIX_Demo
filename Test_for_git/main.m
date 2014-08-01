@@ -13,7 +13,7 @@ int main(int argc, const char * argv[])
 
     @autoreleasepool {
         
-        NSLog(@"Hello, GIT!");
+        NSLog(@"Hello, GIT! Myhahahaha!!!!");
         
     }
     return 0;
